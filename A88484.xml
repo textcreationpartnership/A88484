@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the general sessions of the publick peace holden for the City of London by adjournament at Justice-hall in the Old-Baily in the parish of Sepulchers in the ward of Farringdon without London on Wednesday the sixteenth day of August, in the year of our Lord One thousand six hundred fifty and four, before Sir Thomas Vyner Knight Mayor of the City of London, Thomas Atkin, Thomas Andrews, Thomas Foot, John Kendrick, aldermen of the said City; William Steel serjeant at Law, and recorder of the same city, John Dethick, and Robert Tichborn, aldermen of the city aforesaid, justices assigned to keep the publike peace in the said City; and also to heare and determine divers felonies, trespasses; and other misdemeanours within the same city committed.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88484</idno>
+            <idno type="STC">Wing L2887B</idno>
+            <idno type="STC">Thomason 669.f.19[22]</idno>
+            <idno type="EEBO-CITATION">99870775</idno>
+            <idno type="PROQUEST">99870775</idno>
+            <idno type="VID">163360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163360)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the general sessions of the publick peace holden for the City of London by adjournament at Justice-hall in the Old-Baily in the parish of Sepulchers in the ward of Farringdon without London on Wednesday the sixteenth day of August, in the year of our Lord One thousand six hundred fifty and four, before Sir Thomas Vyner Knight Mayor of the City of London, Thomas Atkin, Thomas Andrews, Thomas Foot, John Kendrick, aldermen of the said City; William Steel serjeant at Law, and recorder of the same city, John Dethick, and Robert Tichborn, aldermen of the city aforesaid, justices assigned to keep the publike peace in the said City; and also to heare and determine divers felonies, trespasses; and other misdemeanours within the same city committed.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: Sadler.</note>
+                  <note>An order regulating ale-houses.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Police --  England --  London --  Early works to 1800.</term>
+               <term>Police regulations --  England --  Early works to 1800.</term>
+               <term>Bars (Drinking establishments) --  Law and legislation --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:163360:1" rendition="simple:additions"/>
+            <head>At the Generall Seſsions of the Publike Peace holden for the City of London by Adjournament
+at Juſtice-hall in the Old-Bailey in the Pariſh of Sepulchers in the Ward of Farringdon without London,<note place="margin">London ſſ.</note> on Wedneſday
+the Sixteenth day of Auguſt, in the year of our Lord One thouſand ſix hundred fifty and four, before Sir Thomas Vyner
+Knight Mayor of the City of London, Thomas Atkin, Thomas Andrews, Thomas Foot, and John Kendrick, Aldermen of
+the ſaid City; William Steel Serjeant at Law, and Recorder of the ſame City, John Dethick, and Robert Tichborn, Al<g ref="char:EOLhyphen"/>dermen
+of the City aforeſaid, Juſtices aſſigned to keep the Publike Peace in the ſaid City; and alſo to heare and de<g ref="char:EOLhyphen"/>termine
+divers Felonies, Treſpaſſes, and other Miſdemeanors within the ſame City committed.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Court taking notice of the great and unneceſſary number of Alehouſes and Alehouſe-keepers within this City and the
+Liberties thereof, and that many of them are young, and others of good eſtates, or have Trades to maintain them; And
+that many lewd and idle perſons are harboured, and many Felonies are oftentimes plotted and contrived, and many Af<g ref="char:EOLhyphen"/>frayes,
+Murders and other Miſchiefs are thereby occaſioned, to the great loſſe of many mens lives and eſtates by diſor<g ref="char:EOLhyphen"/>ders
+therein, to the great diſhonour of God, ſcandal of the Government of this City, diſturbance of the publike peace,
+and to the ruine and deſtruction of very many people: For preventing of which growing evils, and for better order
+to be obſerved in the premiſes for the future, and that no perſon not qualified as is herein mentioned may preſume upon
+obtaining a Licence (the due obſervance whereof is expected) It is thought fit to be made known and declared by this Court, that the parti<g ref="char:EOLhyphen"/>culars
+hereafter mentioned be put in execution, and be obſerved by all perſons therein concerned; that is to ſay,</p>
+            <p>I. THat from henceforth during the ſpace of two years now next enſuing, the Juſtices of Peace within this City will not licence or admit
+any perſon or perſons whatſoever to keep any common Alehouſe or Tipling-houſe within the ſaid City and the Liberties thereof, other
+then ſuch perſon and perſons as are at this preſent licenced and admitted thereunto, and the Widdow or Widdowes of the perſon or perſons
+aforeſaid during their Widdowhood onely; or the Executors, Adminiſtrators or Legattees of ſuch perſon or perſons, and that onely for ſo long
+time as the Beer and Ale then in the houſe, or poſſeſſion of ſuch perſon or perſons deceaſed, ſhall or may be drawn out and uttered, and not
+exceeding nine moneths at the utmoſt; and no other ſtrong Beer or Ale to be taken into the ſame houſe or houſes within that time to be ſold.</p>
+            <p>II. That from henceforth the Juſtices aforeſaid will not continue to licence or any wiſe admit any Brewer, or Brewers Servant, Chandler
+or Ordinary-keeper, or any perſon or perſons who hath or keepeth, or ſhall hereafter have or keep any Apprentice or Apprentices during their
+time of being a Victualler, or have or drive any Trade or other Profeſſion, whereby with Gods bleſſing on his or their lawful endeavours, a
+livelyhood may be procured to him or them; or that otherwiſe have or hath any eſtate in lands, houſes, goods or moneys to maintain him
+or them.</p>
+            <p>III. That no perſon will be admitted to a Licence as aforeſaid, that ſhall have or keep any Inmate or Inmates, or unlawfully divide or
+cauſe to be ſo divided any houſe or houſes; Nor any Sergeant at Mace, Yeoman, or other Officer or Officers to the Lord Mayor
+or Sheriffs of <hi>London</hi> for the time being, or any of them; Nor any Conſtable or Beadle of any Ward, nor any Servant to any Priſon-keeper
+within the City or Liberties thereof.</p>
+            <p>IV. That no perſon will be hereafter admitted to have a Licence as aforeſaid who ſtandeth, or at any time hereafter ſhall ſtand lawfully con<g ref="char:EOLhyphen"/>victed
+for ſelling or uttering Beer, Ale, Perry, or Sider without Licence againſt any Statute now in force or for permitting or ſuffering any per<g ref="char:EOLhyphen"/>ſon
+or perſons to be gameing at unlawful games, or to be tipling or drinking in his Houſe, Yard, Alley, Garden, or Backſide, or any part
+thereof on any dayes, or times, or in any manner by Law prohibited, within three years after ſuch conviction.</p>
+            <p>V. That from henceforth no Conſtable or Beadle of any Ward nor any Officer belonging to the Lord Major or Sheriffs of <hi>London</hi> for
+the time being, or any of them ſhall hereafter uſe to ſolicite the Court of Seſſions or any Juſtice of Peace within this City for Li<g ref="char:EOLhyphen"/>cences
+for Alehouſes, nor will any ſuch Officers be admitted and allowed to be ſureties for any Alehouſe-keeper, or Victualler.</p>
+            <p>VI. That this Court will admit no Alehouſe-keeper ſurety for another Alehouſe-keeper in any recogniſance, wherein any Alehouſe-keep<g ref="char:EOLhyphen"/>er
+ſhall be bound according to the Statute during the time of his or their being an Alehouſe-keeper or wherein he or they ſhall keep any
+common Alehouſe within this City and the Liberties thereof.</p>
+            <p>VII. That this Court doth declare and intend that upon the forfeiture of any recogniſance entred or to be entred into by any Alehouſe-keepers
+and Victuallers or by their Sureties, ſuch perſons ſo forfeiting or having forfeited their recogniſances ſhall be proceeded againſt by pro<g ref="char:EOLhyphen"/>ceſs
+to be awarded againſt them and other proceedings thereupon had according to Law.</p>
+            <p>VIII. That the Aldermen, Deputies, Common Councel men and other Inhabitants of the ſeveral Wards, and Pariſhes, whom it ſhall
+concern, are deſired to be very careful that there be want of Alehouſes in the Street and Places wherein a Licence is deſired, and alſo be ſatiſ<g ref="char:EOLhyphen"/>fied
+of the fitneſs of the perſons deſiring the ſame, and whether agreeable to the qualifications aforeſaid, before they ſubſcribe any Certificates
+touching the ſame, leſt thereby the parties be put to needleſs trouble.</p>
+            <p>IX. That this Court doth declare and order that no Licence will be hereafter granted but in open Seſſions upon view and examination of
+the party and his fitneſs who deſireth the ſame, and of the ſufficiency of his Sureties and upon their being ſatisfied with the want of ſuch an
+Alehouſe in the place deſired, and that no Warrant ſhall be ſufficient to the Town Clerk or his Deputy for drawing a Licence or taking Re<g ref="char:EOLhyphen"/>cogniſances
+concerning the ſame, unleſs the ſame be ſubſcribed under the hands of two Juſtices of the peace at the leaſt, whereof the Lord
+Major for the time being to be one, And that every Licenſe to be given forth by the Town Clerk or his Deputy, ſhall be hereafter ſubſcribed
+with the name of the Town Clerk, and alſo ſealed with the Seal of the Town Clerks Office.</p>
+            <p>X. Laſtly that the Overſeers of the poor and Conſtables in every Pariſh and the Beadles of every Ward within this City and Liberties
+thereof, do from time to time take ſpecial notice of all ſuch within their Pariſhes Precincts and Wards, who ſhall preſume to ſell or utter any
+Ale, Beer, or other ſtrong drink as an Alehouſe-keeper without Licence or keep diſorderly houſes, And ſhall from time to time give notice
+thereof, to the Alderman of the Ward, his Deputy, the Common Councell men of the Precinct or any of them, and to this Court, where ſuch
+unlicenſed or diſorderly Alehouſe-keepers do dwell, their names, and the names of all ſuch Brewers as ſhall ſell or utter any Beer,
+or Ale to ſuch unlicenſed Alehouſe-keepers, that they may be proceeded againſt and puniſhed and the penalties for ſo doing duely recovered and
+levied according to Law, upon paine that the ſaid Beadles offending in the premiſes be proceeded againſt by being put out of their places, or
+otherwiſe; as well they as the aforeſaid other Officers offending therein be dealt withall in ſuch manner as ſhall be juſt.</p>
+            <closer>
+               <signed>Sadler.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
